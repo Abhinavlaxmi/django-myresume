@@ -1,0 +1,25 @@
+/* font */
+
+.st-font {
+    font-family: 'Satisfy'!important;
+}
+
+html,body {
+    height: 100%;
+}
+
+.container-fluid {
+    height: 100%;
+}
+
+.i-color {
+    color: chartreuse;
+}
+
+.ss-color{
+    color: silver;
+}
+
+.container-fluid{
+    height: 100% !important;
+}
